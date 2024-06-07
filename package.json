@@ -1,0 +1,12 @@
+{
+  "name": "celebal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "node": "npm run "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
